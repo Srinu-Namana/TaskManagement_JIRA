@@ -554,15 +554,7 @@ taskDescription=Develop login functionality
 
 ### Expected Result
 
-```text
-Task Created Successfully
-        ↓
-Redirect
-        ↓
-/taskshome
-```
 
----
 
 
 
