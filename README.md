@@ -564,23 +564,10 @@ Redirect
 
 ---
 
-# 💼 Resume Description
-
-### TaskFlow – Enterprise Task Management System
-
-Developed a **JIRA-inspired Task Management System** using **Core Java, Servlets, JSP, JDBC and MySQL** following the **MVC and DAO design patterns**. Implemented task creation, assignment, story-point estimation and task management functionality with a layered architecture.
-
----
-
-# 🎤 Interview Explanation
-
-> "I developed a JIRA-inspired Task Management System using Java Servlets, JSP, JDBC and MySQL. I followed MVC architecture and used the DAO pattern for database operations. The Servlet acts as the controller, receives task details from the JSP form, creates a model object and passes it to the DAO layer. The DAO communicates with MySQL using JDBC. The system can be extended with task status, priority, sprint management, role-based authentication and Kanban board functionality."
-
----
 
 # 👨‍💻 Author
 
-**Srikanth**
+**Manikanta**
 
 Java Full Stack Trainer / Developer
 
