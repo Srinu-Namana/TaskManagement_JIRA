@@ -565,14 +565,7 @@ Redirect
 ---
 
 
-# 👨‍💻 Author
 
-**Manikanta**
-
-Java Full Stack Trainer / Developer
-
-**Technologies:**
-Java | Servlets | JSP | JDBC | MySQL | Spring Boot | REST APIs | Microservices | AI
 
 ---
 
